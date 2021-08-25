@@ -1,5 +1,5 @@
 import React from 'react'
-import filtering from '../tools/filtering'
+// import filtering from '../tools/filtering'
 
 export default function filter() {
     const criteria = ['good', "red"]
